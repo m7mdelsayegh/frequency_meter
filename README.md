@@ -10,7 +10,8 @@ FreqMeter_Clean/
 │   └── Driver_Libraries/        → Reusable DIO / LCD / TIMER / INTERRUPT drivers
 ├── 3_Delphi_Android_App/        → Embarcadero Delphi (FireMonkey) Android app source
 ├── 4_Android_APK/               → Ready-to-install APK
-└── docs/                        → Old reference picture of the schematic
+├── 5_ESP32_Signal_Generator/    → ESP32 10-channel square-wave test generator (1 kHz – 40 MHz)
+└── docs/                        → LaTeX project report (FreqMeter_Report.tex) + simulation & test photos
 ```
 
 ---
